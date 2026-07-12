@@ -10,7 +10,7 @@ const PROJECTS = [
     number: '01',
     name: 'NexusMind',
     category: 'Generative AI',
-    href: 'https://chat-ui-metawurks.vercel.app',
+    href: 'https://nexus-mind-multi-agent-ai-chat-plat.vercel.app/',
     linkLabel: 'Live Project',
     images: [og('NexusMind-Multi-Agent-AI-Chat-Platform'), '/nexus2.webp', '/nexus.webp'],
     tileBg: ['#EAEDF8', '#EEF2F9'],
